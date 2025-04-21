@@ -18,7 +18,6 @@ public class EX3 {
         }
     }
 }
-<<<<<<< HEAD
 
 /*
      Pattern Program : 3
@@ -28,5 +27,4 @@ public class EX3 {
            * * * *
          * * * * *
 */
-=======
->>>>>>> ff179845bd8fd41425717692efe364198847ec2e
+
