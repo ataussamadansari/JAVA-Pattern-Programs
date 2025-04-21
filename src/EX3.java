@@ -18,3 +18,12 @@ public class EX3 {
         }
     }
 }
+
+/*
+     Pattern Program : 3
+                 *
+               * *
+             * * *
+           * * * *
+         * * * * *
+*/
